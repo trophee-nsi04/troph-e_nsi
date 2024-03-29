@@ -32,7 +32,7 @@
 
 
 --PING PONG:
-	Il y a deux joueurs : joueur 1 contrôlant le paddle rouge avec "z" (haut) et "s" (bas) et joueur 2 contrôlant le paddle bleu avec
+	Il y a deux joueurs : joueur 1 contrôlant le paddle rouge avec "e" (haut) et "d" (bas) et joueur 2 contrôlant le paddle bleu avec
 	"flèche du haut" et "flèche du bas",
 	Pour gagner des points, il faut que la balle ne rebondisse pas sur le paddle de l'adversaire.
 	Le but : atteindre en premier 11 points qui sont affichés en haut de la fenêtre,
