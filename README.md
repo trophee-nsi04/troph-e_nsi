@@ -1,7 +1,7 @@
 ---COMMENT LE JEU FONCTIONNE---                                                                                                          
 --TOUCHE PAR DEFAULT--                                                                                                                   
-	F11 : pleine écran                                                                                                                
-	/ echap : écran fenêtré
+   F11 : pleine écran                                                                                                                
+   Echap : écran fenêtré
 
 --LOBBY:
 	lobby.py est le seul programme a lancé
